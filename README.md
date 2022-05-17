@@ -4,7 +4,7 @@ Projeto 1- Primeiro Repositorio
 
 Após os usuários terem os contatos iniciais com a ferramenta Git / GitHub fica claro da importância de se ter arquivos em distintos repositórios sem falar no controle e gerenciamento de cada versionamento aplicado ao arquivo. Diante desse cenário manifesta-se o quanto é difícil controlar a versão mais atual dos arquivos e bem como manter os **backups** isolados pois já é consabido que é uma solução obsoleta e contraproducente. Desta forma fica a evidente relevância de usar repositórios locais e remotos e nesse caso a ferramenta **GitHub** é de grande valia para os programadores(as).
 
-# CRIANDO UM REPOSITÓRIO**
+# CRIANDO UM REPOSITÓRIO
 Para iniciar um repositório o facilitador-Dio Otávio Reis (Perkles) sugere que se crie uma pasta no diretorio C do Windows  e que dentro desse mesmo diretório clique com o botão direito do mouse ( com o o GIT já instalado) e clique em GIT Bash. Lembrando que o diretório C foi um local escolhido pelo facilitador e podendo ser facilmente ser escolhido outro local a critério de cada programador(a), conforme a figura 1 abaixo:
 
 Após o clique em GIT Bash Here (conforme setas vermelhas na figura) o programa irá abrir diretamente dentro do **diretório C** em questão e nesse caso abrirá conforme figura 2 abaixo, pois essa iniciativa elimina toda a necessidade de ficar percolando entre todas as pastas contidas até chegar ao **diretório C.**
